@@ -1,0 +1,2 @@
+# Bus reservation program
+##### Simple program to booking seats in buses. The program allows the users only to book seats selected through a series of decisions. This prototype does not have a built-in automatic booking algorithm (except for all seat reservations).
